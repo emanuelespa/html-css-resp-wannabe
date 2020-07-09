@@ -50,7 +50,7 @@
 #why .row img {
   background-color: #428bca;
   border-radius: 50%;
-  padding: 30px
+  padding: 30px;
 }
 
 /* COMMON */
@@ -76,7 +76,7 @@ img {
 @media screen and (max-width: 420px) {
 /* comune */
   .row {
-    width: 480px;
+    width: 475px;
     margin: auto;
     margin-top: 20px;
   }
@@ -117,7 +117,7 @@ img {
   #steps .row>.central,
   #steps .row>.right {
     width: 100%;
-    padding-bottom: 20px
+    padding-bottom: 20px;
   }
 
 }
