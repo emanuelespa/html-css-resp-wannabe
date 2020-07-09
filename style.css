@@ -76,9 +76,9 @@ img {
 @media screen and (max-width: 420px) {
 /* comune */
   .row {
-    width: 475px;
+    width: 48%;
     margin: auto;
-    margin-top: 20px;
+    margin-top: 15px;
   }
 
   div{
