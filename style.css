@@ -76,13 +76,14 @@ img {
 @media screen and (max-width: 420px) {
 /* comune */
   .row {
-    width: 496px;
+    width: 480px;
     margin: auto;
-    margin-top: 25px;
+    margin-top: 10px;
   }
 
 div{
-  font-size: 15px;
+  font-size: 14px;
+  width: 60%;
 }
   /* immagini */
   img{
