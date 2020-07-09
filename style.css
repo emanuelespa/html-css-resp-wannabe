@@ -74,11 +74,19 @@ img {
 
 /* modifiche tramite css media */
 @media screen and (max-width: 420px) {
- /* classe row */
+/* comune */
   .row {
     width: 496px;
     margin: auto;
-    margin-top: 50px;
+    margin-top: 25px;
+  }
+
+div{
+  font-size: 15px;
+}
+  /* immagini */
+  img{
+    height: 100px;
   }
 
 }
