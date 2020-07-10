@@ -76,7 +76,7 @@ img {
 @media screen and (max-width: 420px) {
 /* comune */
 
-  body{
+  *{
     box-sizing: border-box;
     margin: 0;
     padding:0;
